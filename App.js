@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { StyleSheet, Text, View, TextInput, Button, Image } from 'react-native';
 
+
 export default function App() {
 
   const [gasolina, setGasolina] = useState()
